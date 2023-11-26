@@ -1,0 +1,3 @@
+1 80.000000 FIFA 50 juego EA
+2 100.000000 OculusRift 50 RealidadVirtual Activision
+3 1250.51 PC 50 gaming Asus
